@@ -65,7 +65,7 @@
     </rect>
 
     <!-- text -->
-    <text x="60" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="url(#title)">Hi, I'm Razi</text>
+    <text x="60" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="url(#title)">Hi, I'm mobina</text>
     <text x="62" y="190" font-family="'Courier New', monospace" font-size="26" fill="#cbd5e1">AI  •  Python  •  Robotics  •  Web</text>
     <text x="62" y="236" font-family="'Courier New', monospace" font-size="20" fill="#67e8f9">
       &gt; building small things that learn
