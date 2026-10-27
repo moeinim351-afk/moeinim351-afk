@@ -1,7 +1,7 @@
 <!-- Profile README for moeinim351-afk -->
 <div align="center">
 
-<img src="assets/banner.svg" alt="Razi — AI, Python and Robotics" width="100%" />
+<img src="assets/banner.svg" alt="mobina — AI, Python and Robotics" width="100%" />
 
 ### Curious learner building with AI, Python, and robotics.
 
