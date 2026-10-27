@@ -18,7 +18,7 @@
 
 ## 👋 About me
 
-I'm **Razi**, a student who likes figuring out how intelligent systems work, then turning what I learn into things people can actually use: small AI experiments, Python tools, hardware builds, and learning websites.
+I'm **mobina**, a student who likes figuring out how intelligent systems work, then turning what I learn into things people can actually use: small AI experiments, Python tools, hardware builds, and learning websites.
 
 - 🧠 Studying **AI engineering**, machine learning and Python
 - 🤖 Exploring **robotics, computer vision and intelligent agents**
